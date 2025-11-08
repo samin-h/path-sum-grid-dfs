@@ -59,9 +59,7 @@ def find_path_with_sum(grid, K):
         return None
 
 
-# -------------------------
-# Example usage
-# -------------------------
+# Example 
 
 if __name__ == "__main__":
     grid = [
